@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\bin\Debug\net6.0\dz01.exe
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\bin\Debug\net6.0\dz01.deps.json
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\bin\Debug\net6.0\dz01.runtimeconfig.json
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\bin\Debug\net6.0\dz01.dll
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\bin\Debug\net6.0\dz01.pdb
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\dz01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\dz01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\dz01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\dz01.AssemblyInfo.cs
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\dz01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\dz01.dll
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\refint\dz01.dll
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\dz01.pdb
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\dz01.genruntimeconfig.cache
+C:\Users\user\Desktop\gitLesson\sharpdz1\dz01\obj\Debug\net6.0\ref\dz01.dll
