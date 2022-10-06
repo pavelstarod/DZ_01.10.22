@@ -2,9 +2,7 @@
 int x = int.Parse(Console.ReadLine());
 Console.WriteLine("вывод дня недели: ");
 
-if (x < 1)
- Console.WriteLine("неккоректные вводные данные");
-else if (x == 1)
+if (x == 1)
  Console.WriteLine("понедельник");
 else if (x == 2)
  Console.WriteLine("вторник");
